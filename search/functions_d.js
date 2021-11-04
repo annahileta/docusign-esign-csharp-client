@@ -1,0 +1,61 @@
+var searchData = [
+  [
+    'oauthaccess',
+    [
+      'OauthAccess',
+      [
+        '../class_docu_sign_1_1e_sign_1_1_model_1_1_oauth_access.html#a2f1ef975b2876fec0ae968edd9448025',
+        1,
+        'DocuSign.eSign.Model.OauthAccess.OauthAccess()',
+      ],
+      [
+        '../class_docu_sign_1_1e_sign_1_1_model_1_1_oauth_access.html#a98530ee8c59657f7920d9d57ad46ba34',
+        1,
+        'DocuSign.eSign.Model.OauthAccess.OauthAccess(string AccessToken=default(string), List&lt; NameValue &gt; Data=default(List&lt; NameValue &gt;), string ExpiresIn=default(string), string RefreshToken=default(string), string Scope=default(string), string TokenType=default(string))',
+      ],
+    ],
+  ],
+  [
+    'ocrrequest',
+    [
+      'OcrRequest',
+      [
+        '../class_docu_sign_1_1e_sign_1_1_model_1_1_ocr_request.html#ad88e599f98216ee7ab2275dc86ae5b37',
+        1,
+        'DocuSign.eSign.Model.OcrRequest.OcrRequest()',
+      ],
+      [
+        '../class_docu_sign_1_1e_sign_1_1_model_1_1_ocr_request.html#ab4a7c3b9128830b7a82096c155c074b8',
+        1,
+        'DocuSign.eSign.Model.OcrRequest.OcrRequest(string OcrLanguage=default(string), string PageSelection=default(string), string SetPageOrientation=default(string), string ShowFrames=default(string), string ShowText=default(string), string SkipPagesHavingExistingExtractableText=default(string))',
+      ],
+    ],
+  ],
+  [
+    'offlineattributes',
+    [
+      'OfflineAttributes',
+      [
+        '../class_docu_sign_1_1e_sign_1_1_model_1_1_offline_attributes.html#a7bd796f090c66b542289b21e6172e2ca',
+        1,
+        'DocuSign.eSign.Model.OfflineAttributes.OfflineAttributes()',
+      ],
+      [
+        '../class_docu_sign_1_1e_sign_1_1_model_1_1_offline_attributes.html#ae7df6f290b62c113122f9477734c1d82',
+        1,
+        'DocuSign.eSign.Model.OfflineAttributes.OfflineAttributes(string AccountEsignId=default(string), string DeviceModel=default(string), string DeviceName=default(string), string GpsLatitude=default(string), string GpsLongitude=default(string), string OfflineSigningHash=default(string))',
+      ],
+    ],
+  ],
+  [
+    'organizationsapi',
+    [
+      'OrganizationsApi',
+      [
+        '../class_docu_sign_1_1e_sign_1_1_api_1_1_organizations_api.html#afbbc81f7dabe27fdda5cab61e41ee24e',
+        1,
+        'DocuSign::eSign::Api::OrganizationsApi',
+      ],
+    ],
+  ],
+];

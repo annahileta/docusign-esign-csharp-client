@@ -1,0 +1,24 @@
+var searchData = [
+  [
+    'production_5foauth_5fbasepath',
+    [
+      'Production_OAuth_BasePath',
+      [
+        '../class_docu_sign_1_1e_sign_1_1_client_1_1_auth_1_1_o_auth.html#af9f64297a68c116de3b90f350cc829ce',
+        1,
+        'DocuSign::eSign::Client::Auth::OAuth',
+      ],
+    ],
+  ],
+  [
+    'production_5frest_5fbasepath',
+    [
+      'Production_REST_BasePath',
+      [
+        '../class_docu_sign_1_1e_sign_1_1_client_1_1_api_client.html#aa44d4fe8bacea5dfd610dab317dffd54',
+        1,
+        'DocuSign::eSign::Client::ApiClient',
+      ],
+    ],
+  ],
+];
